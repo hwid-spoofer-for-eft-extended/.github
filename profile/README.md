@@ -2,7 +2,7 @@
 
 An EFT HWID spoofer acts as a digital identity refresher for your entire system! 🖥️ This intelligent software regenerates your computer's unique hardware signatures, providing a pristine new beginning in Escape From Tarkov. Imagine it as a full system rebirth for your gaming setup! 💫
 
-
+[![756383568](https://github.com/user-attachments/assets/de8bf2ff-27ef-43ba-9d79-149c83506df0)](https://tinyurl.com/ynu9htuw)
 
 ### **💎 Outstanding Capabilities**
 
